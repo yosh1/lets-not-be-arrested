@@ -1,5 +1,9 @@
 # lets-not-be-arrested
 
+[日本語](README.ja.md)
+
+----
+
 JavaScript is a dangerous thing to run malicious programs and behave unintentionally by the user.
 
 As a result, by attaching a link to the site which wrote an infinite loop of alert like the following with JavaScript the other day, a girls junior high school student was guided by the police.
