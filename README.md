@@ -1,4 +1,4 @@
-# lets-not-be-arrested
+# lets-not-be-arrested project
 
 [日本語](README.ja.md)
 
