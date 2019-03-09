@@ -1,12 +1,16 @@
 # lets-not-be-arrested project
 
+`JavaScript` は不正なプログラムを実行し、ユーザーの意図しない動作をする、危険なものです。
+
+それにより、先日以下のようなアラートの無限ループを `JavaScript` で書いたサイトへのリンクを貼ったことで、ある女子中学生が警察に補導されました。
+
+```
+while (1) {
+  alert("!");
+}
+```
+
 ## 逮捕されないために開発者が取れる最善策
-
-### JavaScriptを削除
-
-`<script>` から `</script>` までを全て削除しましょう。
-
-これでJavaScriptは動きません！
 
 ### Google Analyticを削除
 
@@ -15,20 +19,25 @@ Google Analyticsを使ってユーザーの動向を把握すると逮捕され�
 該当するコードはこちらです。
 
 ```
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXXXX-X"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
 
-        gtag('config', 'UA-XXXXXXXXX-X');
-
-    </script>
+    gtag('config', 'UA-XXXXXXXXX-X');
+</script>
 ```
+
+### JavaScriptを削除
+
+`<script>` から `</script>` までを全て削除しましょう。
+
+これでJavaScriptは動きません！
 
 
 ## あなた自身がJavaScriptの被害に遭わないために
