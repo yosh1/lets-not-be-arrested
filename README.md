@@ -6,7 +6,7 @@
 
 JavaScript is a dangerous thing to run malicious programs and behave unintentionally by the user.
 
-As a result, by attaching a link to the site which wrote an infinite loop of alert like the following with JavaScript the other day, a girls junior high school student was guided by the police.
+As a result, by attaching a link to the site which wrote an infinite loop of alert like the following with JavaScript the other day, a girls junior high school student was guided by the police. *1
 
 ```
 ■■■■■ (■) {
@@ -14,13 +14,14 @@ As a result, by attaching a link to the site which wrote an infinite loop of ale
 }
 ```
 
+
 ## Best strategy that developers can take to prevent being arrested
 
 ### Delete Google Analytic
 
 If you grasp the user's trends using Google Analytics you will be arrested, so let's delete it.
 
-The corresponding code is here.
+The corresponding code is here. *1
 
 ```
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -36,6 +37,7 @@ The corresponding code is here.
     ■■■■('■■■■■■', '■■-■■■■■■■■■-■');
 </■■■■■■>
 ```
+
 
 ### Delete JavaScript
 Let's delete all from `<script>` to `</script>` .
@@ -70,3 +72,13 @@ It is not tied to a language, but the language I can surely read is English Japa
 
 ## I am looking for people who translate!
 Please fork this project and edit, then send a pull request.
+
+## Questions
+
+Q. Why is the code painted black? (*1)
+
+A. Because I might be arrested if you post the code here.
+   Thanks to @kazh98 for [pointing out](https://github.com/yoshi1125hisa/lets-not-be-arrested/pull/2)!
+
+
+
