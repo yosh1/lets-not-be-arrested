@@ -4,9 +4,9 @@
 
 ----
 
-JavaScript is a dangerous thing to run malicious programs and behave unintentionally by the user.
+`JavaScript` is a dangerous thing to run malicious programs and behave unintentionally by the user.
 
-As a result, by attaching a link to the site which wrote an infinite loop of alert like the following with JavaScript the other day, a girls junior high school student was guided by the police. *1
+As a result, attaching a link to the site which wrote an infinite loop of alert like the following with `JavaScript` the other day, a girls junior high school student was guided by the police. *1
 
 ```
 ■■■■■ (■) {
@@ -19,7 +19,7 @@ As a result, by attaching a link to the site which wrote an infinite loop of ale
 
 ### Delete Google Analytic
 
-If you grasp the user's trends using Google Analytics you will be arrested, so let's delete it.
+If you track the user's footprints using Google Analytics you will be arrested, so it is recommended to be deleted.
 
 The corresponding code is here. *1
 
@@ -39,31 +39,32 @@ The corresponding code is here. *1
 ```
 
 
-### Delete JavaScript
+### Delete JavaScript from your code.
 Let's delete all from `<script>` to `</script>` .
 
-JavaScript will not work with this!
+JavaScript will not work by deleting these codes.
 
 ## Do not make yourself get damaged by JavaScript
 
 ### Disable JavaScript in browser
 
 #### Chrome
-Open the menu setting and enter javascript in the search bar. Please choose not to allow Javascript to run for all sites from the setting of contents
+Open the menu on the top right corner,find `setting` and open. Enter `javascript` in the search bar. Turn off `javascript` so that Chrome will not allow any sites to run Javascript.
 
 #### Firefox
-In the address bar, enter about: config.
+In the address bar, enter `about:config` .
 
-It is out of action! I get a warning, but there is a possibility that I may be arrested. Let's agree.
+There will be an alert which shows that the application will be out of support.
+Although, there will be risk for being arrested make sure to agree and turn it off.
 
-Enter javascript.enabled in the search bar and double click to switch to false.
+Enter `javascript.enabled` in the search bar and double click to switch to false.
 
 #### Internet Explorer
-Select the Internet option on the menu.
+Select the `Internet option` on the menu.
 
-On the Security tab, select Custom Level.
+On the `Security` tab, select `Customize Level`.
 
-Choose Script> Disable Active Script and restart the browser, then it will take effect.
+Choose `Script` > `Disable` the `Active Script` and restart the browser to make it effect.
 
 ## When you have found a new crime
 Please fork this project and edit, then send a pull request.
@@ -80,5 +81,6 @@ Q. Why is the code painted black? (*1)
 A. Because I might be arrested if you post the code here.
    Thanks to @kazh98 for [pointing out](https://github.com/yoshi1125hisa/lets-not-be-arrested/pull/2)!
 
+Q. I can't find the exact option to change my settings.
 
-
+A. We know that each browser have large updates every few months. If you find any updates not configured let us know by issues or forking + pull requests.
