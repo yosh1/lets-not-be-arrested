@@ -1,6 +1,6 @@
 # lets-not-be-arrested project
 
-## 逮捕されないためにあなたが取れる最善策
+## 逮捕されないために開発者が取れる最善策
 
 ### JavaScriptを削除
 
@@ -11,6 +11,8 @@
 ### Google Analyticを削除
 
 Google Analyticsを使ってユーザーの動向を把握すると逮捕されてしまうので、消しておきましょう。
+
+該当するコードはこちらです。
 
 ```
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -28,4 +30,17 @@ Google Analyticsを使ってユーザーの動向を把握すると逮捕され�
     </script>
 ```
 
-該当するコードはこちらです。
+
+## あなた自身がJavaScriptの被害に遭わないために
+
+### ブラウザでJavaScriptを無効に
+
+#### Chrome
+
+#### Firefox
+
+アドレスバーに、 `about:config` と入力します。
+
+`動作対象外です！` と警告が出ますが、逮捕されてしまう可能性があるので仕方ありません。同意しましょう。
+
+検索バーに `javascript.enabled` と入力し、ダブルクリックで `false` に切替えてください。
