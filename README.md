@@ -68,5 +68,5 @@ Please fork this project and edit, then send a pull request.
 
 It is not tied to a language, but the language I can surely read is English Japanese only.
 
-## We are looking for people who translate!
+## I am looking for people who translate!
 Please fork this project and edit, then send a pull request.
