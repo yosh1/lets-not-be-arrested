@@ -63,8 +63,10 @@ On the Security tab, select Custom Level.
 
 Choose Script> Disable Active Script and restart the browser, then it will take effect.
 
-When you have found a new crime
-Please fork this project and edit, then send a pull request. It is not tied to a language, but the language I can surely read is English Japanese only.
+## When you have found a new crime
+Please fork this project and edit, then send a pull request.
 
-We are looking for people who translate!
+It is not tied to a language, but the language I can surely read is English Japanese only.
+
+## We are looking for people who translate!
 Please fork this project and edit, then send a pull request.
