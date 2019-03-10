@@ -4,9 +4,9 @@
 
 ----
 
-`JavaScript` is a dangerous thing to run malicious programs and behave unintentionally by the user.
+`JavaScript` is a dangerous technology that may run malicious programs without user acknowledgement.
 
-As a result, attaching a link to the site which wrote an infinite loop of alert like the following with `JavaScript` the other day, a girls junior high school student was guided by the police. *1
+As a result, attaching a link to a site that runs an infinite loop of alert like the following with `JavaScript` the other day, a girls junior high school student was questioned and charged by the police. *1
 
 ```
 ■■■■■ (■) {
@@ -17,7 +17,7 @@ As a result, attaching a link to the site which wrote an infinite loop of alert 
 
 ## Best strategy that developers can take to prevent being arrested
 
-### Delete Google Analytic
+### Delete Google Analytics
 
 If you track the user's footprints using Google Analytics you will be arrested, so it is recommended to be deleted.
 
@@ -40,27 +40,27 @@ The corresponding code is here. *1
 
 
 ### Delete JavaScript from your code.
-Let's delete all from `<script>` to `</script>` .
+Let's delete everything from `<script>` to `</script>` .
 
-JavaScript will not work by deleting these codes.
+JavaScript will be prevented from working by deleting these codes.
 
-## Do not make yourself get damaged by JavaScript
+## Do not expose yourself to JavaScript damage
 
-### Disable JavaScript in browser
+### Disable JavaScript in your browser
 
 #### Chrome
-Open the menu on the top right corner,find `setting` and open. Enter `javascript` in the search bar. Turn off `javascript` so that Chrome will not allow any sites to run Javascript.
+Open the menu on the top right corner, find `Settings` and open. Enter `javascript` in the search bar. Turn off `javascript` so that Chrome will not allow any sites to run Javascript.
 
 #### Firefox
 In the address bar, enter `about:config` .
 
-There will be an alert which shows that the application will be out of support.
-Although, there will be risk for being arrested make sure to agree and turn it off.
+There will be an alert which shows that the application will be out of warranty.
+But remember the risk of being arrested and make sure to agree and turn it off.
 
-Enter `javascript.enabled` in the search bar and double click to switch to false.
+Enter `javascript.enabled` in the search bar and double-click to switch to false.
 
 #### Internet Explorer
-Select the `Internet option` on the menu.
+Select the `Internet options` in the menu.
 
 On the `Security` tab, select `Customize Level`.
 
