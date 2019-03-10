@@ -44,6 +44,9 @@ Let's delete everything from `<script>` to `</script>` .
 
 JavaScript will be prevented from working by deleting these codes.
 
+### Result
+The result will look like [this](https://github.com/yoshi1125hisa/lets-not-be-arrested/blob/master/app.js).
+
 ## Do not expose yourself to JavaScript damage
 
 ### Disable JavaScript in your browser
