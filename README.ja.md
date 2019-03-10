@@ -1,5 +1,7 @@
 # lets-not-be-arrested project
 
+[English](https://github.com/yoshi1125hisa/lets-not-be-arrested/blob/master/README.md)
+
 `JavaScript` は不正なプログラムを実行し、ユーザーの意図しない動作をする、危険なものです。
 
 それにより、先日以下のようなアラートの無限ループを `JavaScript` で書いたサイトへのリンクを貼ったことで、ある女子中学生が警察に補導されました。 *1
