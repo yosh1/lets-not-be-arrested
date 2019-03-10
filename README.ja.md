@@ -12,7 +12,7 @@
 
 ## 逮捕されないために開発者が取れる最善策
 
-### Google Analyticを削除
+### Google Analyticsを削除
 
 Google Analyticsを使ってユーザーの動向を把握すると逮捕されてしまうので、消しておきましょう。
 
