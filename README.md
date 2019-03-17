@@ -1,6 +1,6 @@
 # lets-not-be-arrested project
 
-[日本語](README.ja.md)
+- [日本語](README.ja.md)
 
 ----
 
