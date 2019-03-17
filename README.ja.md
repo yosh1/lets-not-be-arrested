@@ -1,6 +1,6 @@
 # lets-not-be-arrested project
 
-[English](https://github.com/yoshi1125hisa/lets-not-be-arrested/blob/master/README.md)
+- [English](https://github.com/yoshi1125hisa/lets-not-be-arrested/blob/master/README.md)
 
 ---
 
