@@ -44,7 +44,7 @@ Google Analyticsを使ってユーザーの動向を把握すると逮捕され�
 これでJavaScriptは動きません！
 
 ### 結果
-結果は、 [this]（https://github.com/yoshi1125hisa/lets-not-be-arrested/blob/master/app.js） のようになります。
+結果は、 [こちら](https://github.com/yoshi1125hisa/lets-not-be-arrested/blob/master/app.js) のようになります。
 
 ## あなた自身がJavaScriptの被害に遭わないために
 
